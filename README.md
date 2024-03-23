@@ -1,7 +1,7 @@
 Hi... ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Pasindu Wathsara
 ========================================================================================================================================
 
-Trainee Software Developer
+Associate Software Engineer
 --------------------------
 <p align="left">
 I am an undergraduate student at SLIATE who is willing to work on software development
